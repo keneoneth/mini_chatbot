@@ -44,7 +44,7 @@ It supports multiple open-source language models, allows switching between them 
 ![switch_model](https://github.com/user-attachments/assets/50ce08fa-87bf-4fd4-9742-e49aa9cd5333)
 
 ## 📁 Repository Structure
-mini_chatbot/
+mini_chatbot/  
 ├── app.py                 # Main launcher for the Gradio UI  
 ├── chatbot.py             # Backend logic + llama.cpp wrapper  
 ├── download.sh            # Downloads all model files  
